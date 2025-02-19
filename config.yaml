@@ -338,19 +338,17 @@ params:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/converter 
 
-      # - title: Hugo Profile V2
-      #   content: A clean and simple Hugo template for personal portfolio and blog.
-      #   image: /images/projects/profile2.jpg
-      #   featured:
-      #     name: Demo V2
-      #     link: https://hugo-profile-2.netlify.app
-      #   badges:
-      #     - "Hugo"
-      #     - "Bootstrap"
-      #     - "Javascript"
-      #   links:
-      #     - icon: fab fa-github
-      #       url: https://github.com/gurusabarish/HugoProfileV2
+      - title: FlashCard app
+        content: The Flashcard Study App is an interactive learning tool that helps users memorize key concepts through customizable flashcards. Users can create, manage, and shuffle flashcards, then test their knowledge in quiz mode with instant feedback. Perfect for studying efficiently!
+        image: https://files.oaiusercontent.com/file-H3NRsHiwVCpsqpPM9r8oYH?se=2025-02-19T22%3A46%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da4778a51-bfd1-4de7-a098-495c14671ab4.webp&sig=IEw2izjHOpQBQnMwafj7OstPCB%2BKaDFgEokmlXMtasM%3D
+        # featured:
+        #   name: Demo V2
+        #   link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Python"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/HugoProfileV2
 
   #Contact
   contact:
