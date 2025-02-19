@@ -311,32 +311,29 @@ params:
       - title: To-Do List
         content: This To-Do List project allows users to efficiently manage tasks by adding,removing,searching, and displaying task details using object-oriented programming principles.
         image: https://files.oaiusercontent.com/file-GcaU6XTw4wgcHKSxJQvm9N?se=2025-02-19T22%3A36%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D309e9efd-68ce-4ace-867f-bc5592c0f7b1.webp&sig=uJzNGhSH/lIKTmKxhbfAdthyGnVoiwp8m%2BOtuo5pp84%3D
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+        # featured:
+        #   name: Demo
+        #   link: https://hugo-profile.netlify.app
         badges:
           - "Python"
           # - "Hugo"
           # - "Bootstrap"
           # - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+        # links:
+        #   - icon: fa fa-envelope
+        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/hugo-profile
+        #   - icon: fab fa-twitter
+        #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Personalized Wellness Traker
         content: The Personalized Wellness Traker is a simple program that lets users track their daily sleep, water intake, and exercise.They can view past records,see progress,and delete data when needed. 
-        image: /images/projects/converter.jpg
-        # featured:
-        #   name: Demo
-        #   link: https://django-converter.herokuapp.com
+        image: https://files.oaiusercontent.com/file-JcUtfGWJfaY5wAgHFj4pb6?se=2025-02-19T22%3A41%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D547f2be1-546a-4e3c-9d64-238547aa7296.webp&sig=rLla488SirVKWSBNo6e%2B0qwRGb78hVCvaRoNT1almuU%3D
+        
         badges:
           - "Python"
-          # - "Django"
-          # - "Bootstrap"
+          # - "Dtstrap"
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/converter 
