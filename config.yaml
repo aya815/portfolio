@@ -310,7 +310,7 @@ params:
     items:
       - title: To-Do List
         content: This To-Do List project allows users to efficiently manage tasks by adding,removing,searching, and displaying task details using object-oriented programming principles.
-        image: /images/projects/profile.png
+        image: https://files.oaiusercontent.com/file-GcaU6XTw4wgcHKSxJQvm9N?se=2025-02-19T22%3A36%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D309e9efd-68ce-4ace-867f-bc5592c0f7b1.webp&sig=uJzNGhSH/lIKTmKxhbfAdthyGnVoiwp8m%2BOtuo5pp84%3D
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
