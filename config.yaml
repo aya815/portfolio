@@ -277,10 +277,14 @@ params:
         school:
           name: "Zerktouni high school."
           url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        GPA: "18.36 out of 20"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
+        content: |-
+          Extracurricular Activities
+            - I was part of my school’s book reading club, where I got to read different kinds of books and share my thoughts with others in fun discussions.
+            - I enjoyed cycling because it kept me active, helped me clear my mind, and gave me a sense of adventure.
 
   # Achievements
   achievements:
