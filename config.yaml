@@ -357,7 +357,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open, so feel free to reach out if you have any questions or just want to chat! I’ll do my best to respond.
     btnName: Mail me
-    btnLink: Aya.BOUZIANE@um6p.ma
+    btnLink: mailto:Aya.BOUZIANE@um6p.ma
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
