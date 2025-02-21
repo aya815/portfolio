@@ -144,9 +144,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://github.com/aya815/portfolio
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/aya-bouziane-a5aa39334/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -172,6 +172,7 @@ params:
         - "C"
         - "Onshape"
         - "Looping"
+      animation : true
         
   # Experience
   experience:
